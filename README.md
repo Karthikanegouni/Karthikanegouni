@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anegouni Karthik Goud</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikanegouni" alt="karthikanegouni" /></a> </p>
-
 - 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **karthikanegouni@gmail.com**
