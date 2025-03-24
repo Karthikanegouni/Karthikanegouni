@@ -1,3 +1,5 @@
+[!https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBtam83bjBkaXc2MmVsdWE2bWt4em9uZHE5MmFidGptN3QyamtxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif]
+
 # Hi, I'm Karthik.  
 I'm learning the MERN stack and working on some cool projects to improve my skills.
 
