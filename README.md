@@ -1,6 +1,6 @@
 # Hi, I'm Karthik.  
 I'm learning the MERN stack and working on some cool projects to improve my skills.
-<img src="https://tenor.com/PklS.gif" width="100%" />
+<img src="https://media1.tenor.com/m/wF5RiCnfj34AAAAd/work-computer.gif" width="100%" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anegouni-karthik-goud/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikanegouni@gmail.com) 
