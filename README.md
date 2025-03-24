@@ -18,4 +18,8 @@ I'm currently honing my skills in MERN Stack
 ---
 [![](https://visitcount.itsvg.in/api?id=Karthikanegouni&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthikanegouni/Karthikanegouni/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthikanegouni/Karthikanegouni/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Karthikanegouni/Karthikanegouni/blob/output/github-snake-dark.svg" />
+</picture>
