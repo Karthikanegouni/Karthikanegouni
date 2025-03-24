@@ -12,6 +12,7 @@ I'm learning the MERN stack and working on some cool projects to improve my skil
 <p align="right">
   <img src="https://media1.tenor.com/m/wF5RiCnfj34AAAAd/work-computer.gif" width="200px" />
 </p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Karthikanegouni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Karthikanegouni&theme=dark&hide_border=false)<br/>
