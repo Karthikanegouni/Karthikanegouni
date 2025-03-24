@@ -1,5 +1,5 @@
 # Hi, I'm Karthik.  
-I'm learning the MERN stack and working on some cool projects to improve my skills.
+Passionate about web development and currently sharpening my MERN stack skills and working on some cool projects.
 
 ## 🌐 Socials:
 
