@@ -47,12 +47,6 @@ Passionate about web development and currently sharpening my MERN stack skills a
 ![](https://nirzak-streak-stats.vercel.app/?user=Karthikanegouni&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikanegouni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Favorite Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Karthikanegouni&icon=2&color=0)](https://visitcount.itsvg.in)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthikanegouni/Karthikanegouni/refs/heads/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthikanegouni/Karthikanegouni/refs/heads/output/github-snake.svg" />
