@@ -1,5 +1,5 @@
-<p align="left">
 # Hi, I'm Karthik.  
+<p align="left">
 I'm learning the MERN stack and working on some cool projects to improve my skills.
 </p>
 <p align="right">
