@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBtam83bjBkaXc2MmVsdWE2bWt4em9uZHE5MmFidGptN3QyamtxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="100%" />
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/41f42ffb8825a7c57ff4810593e5ba5d-1677459265/Light%20bulb/do-an-animated-pixel-art-banner-for-youtube-twitch-a-videogame-etc.gif" width="100%" />
 
 
 # Hi, I'm Karthik.  
