@@ -12,7 +12,7 @@ I'm learning the MERN stack and working on some cool projects to improve my skil
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikanegouni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Favorite Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Karthikanegouni&icon=2&color=0)](https://visitcount.itsvg.in)
