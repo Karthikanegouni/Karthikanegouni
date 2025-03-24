@@ -1,6 +1,5 @@
-# 💫 About Me:
-I'm currently honing my skills in MERN Stack
-
+# Hi, I'm Karthik.  
+I'm learning the MERN stack and working on some cool projects to improve my skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anegouni-karthik-goud/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikanegouni@gmail.com) 
