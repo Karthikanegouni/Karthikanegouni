@@ -42,8 +42,8 @@ Passionate about web development and currently sharpening my MERN stack skills a
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Karthikanegouni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <div align="center">
   
-  ![](https://nirzak-streak-stats.vercel.app/?user=Karthikanegouni&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikanegouni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Karthikanegouni&theme=dark&hide_border=false" alt="Stats" width="50%"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikanegouni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="50%"/>
 </div>
 
 
