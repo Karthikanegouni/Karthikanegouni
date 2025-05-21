@@ -10,7 +10,7 @@ Passionate about web development and currently sharpening my MERN stack skills a
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/20AG1A6607CSM)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/rickyy13018)
 
-<h2>💻 Tech Stack:</h2>
+<h2>💻 Tech Stack & Tools:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -29,7 +29,15 @@ Passionate about web development and currently sharpening my MERN stack skills a
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/ngrok-%2300C1D4.svg?style=for-the-badge&logo=ngrok&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRA-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
 
 <p align="center">
@@ -39,10 +47,9 @@ Passionate about web development and currently sharpening my MERN stack skills a
 
 
 # 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Karthikanegouni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <div align="center">
-  
   <img src="https://nirzak-streak-stats.vercel.app/?user=Karthikanegouni&theme=dark&hide_border=false" alt="Stats" width="50%"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Karthikanegouni&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikanegouni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="50%"/>
 </div>
 
