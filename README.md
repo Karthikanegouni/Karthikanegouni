@@ -10,7 +10,7 @@ Passionate about web development and currently sharpening my MERN stack skills a
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/20AG1A6607CSM)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/rickyy13018)
 
-<h2>💻 Tech Stack & Tools:</h2>
+## 💻 Tech Stack & Tools:
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -46,7 +46,7 @@ Passionate about web development and currently sharpening my MERN stack skills a
 
 
 
-# 📊 GitHub Stats:
+## GitHub Stats:
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Karthikanegouni&theme=dark&hide_border=false" alt="Stats" width="50%"/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Karthikanegouni&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
