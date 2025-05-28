@@ -9,7 +9,7 @@ Passionate about web development and currently sharpening my MERN stack skills a
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/karthikanegouni/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/20AG1A6607CSM)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/batman_knight07)
-[![Medium](https://img.shields.io/badge/Medium-00AB6C?logo=medium&logoColor=white)](https://medium.com/@karthikanegouni)
+[![Medium](https://img.shields.io/badge/Medium-181700?logo=medium&logoColor=white)](https://medium.com/@karthikanegouni)
 
 
 ## 💻 Tech Stack & Tools:
