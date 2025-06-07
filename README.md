@@ -1,7 +1,7 @@
 # Hi, I'm Karthik.  
 Passionate about web development and currently sharpening my MERN stack skills and working on some cool projects.
 
-## 🌐 Socials:
+## Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anegouni-karthik-goud/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikanegouni@gmail.com)
@@ -12,7 +12,7 @@ Passionate about web development and currently sharpening my MERN stack skills a
 [![Medium](https://img.shields.io/badge/Medium-181700?logo=medium&logoColor=white)](https://medium.com/@karthikanegouni)
 
 
-## 💻 Tech Stack & Tools:
+## Tech Stack & Tools:
 
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
