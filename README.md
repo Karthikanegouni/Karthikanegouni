@@ -1,6 +1,12 @@
 # Hi, I'm Karthik.  
 Passionate about web development and currently sharpening my MERN stack skills and working on some cool projects.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthikanegouni/Karthikanegouni/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthikanegouni/Karthikanegouni/refs/heads/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Karthikanegouni/Karthikanegouni/refs/heads/output/github-snake.svg" />
+</picture>
+
 ## Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anegouni-karthik-goud/)
@@ -63,8 +69,4 @@ Passionate about web development and currently sharpening my MERN stack skills a
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthikanegouni/Karthikanegouni/refs/heads/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthikanegouni/Karthikanegouni/refs/heads/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Karthikanegouni/Karthikanegouni/refs/heads/output/github-snake.svg" />
-</picture>
+
