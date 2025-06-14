@@ -1,5 +1,6 @@
-# Hi, I'm Karthik.  
-Passionate about web development and currently sharpening my MERN stack skills and working on some cool projects.
+<h1 align="center">Hello, I'm Karthik :)  </h1>
+<h4 align="center"><b>MERN stack developer. Focused on clean code, user experience, and continuous learning.</b></h4>
+<p align="center"><i>I see opportunities in every challenge and potential in every problem. I don't just write code, I craft solutions.</i></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthikanegouni/Karthikanegouni/refs/heads/output/github-snake-dark.svg" />
