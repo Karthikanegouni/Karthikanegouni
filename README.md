@@ -58,8 +58,8 @@
 
 
 
- ## GitHub Stats:
-<div align="center">
-  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=Karthikanegouni&theme=dark&hide_border=false" alt="Stats" width="50%"/><br/> -->
+<!-- ## GitHub Stats:>
+<!-- <div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Karthikanegouni&theme=dark&hide_border=false" alt="Stats" width="50%"/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Karthikanegouni&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="50%"/><br/> 
-</div>
+</div> -->
