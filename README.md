@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Anegouni Karthik Goud :)  </h1>
-<h4 align="center"><b>MERN stack developer. Focused on clean code, user experience, and continuous learning.</b></h4>
+<h4 align="center"><b>Fullstack developer. Focused on clean code, user experience, and continuous learning.</b></h4>
 <p align="center"><i>I see opportunities in every challenge and potential in every problem. I don't just write code, I craft solutions.</i></p>
 
 <picture>
