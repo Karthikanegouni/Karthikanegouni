@@ -82,9 +82,9 @@
  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://media1.tenor.com/m/wF5RiCnfj34AAAAd/work-computer.gif" width="300px" />
-</div> -->
+</div> 
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=karthikanegouni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
